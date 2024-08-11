@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Admin Login</title>
 </head>
-<body bgcolor="LightGray">
+<body bgcolor="yellow">
 <%
 int noo =Utility.parse(request.getParameter("no"));
 if(noo==1)
